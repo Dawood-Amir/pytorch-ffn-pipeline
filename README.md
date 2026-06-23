@@ -137,4 +137,4 @@ Through this project I gained experience with:
 
 This project was developed as part of my machine learning portfolio while preparing for a master's thesis in AI and bioinformatics. 
 
-💡 **The Backpropagation Evolution:** Before building this production-ready PyTorch pipeline, I built the entire neural network and backpropagation engine completely from scratch using only NumPy to master the underlying calculus and gradient math. You can check out that foundational project here: [Link ]
+💡 **The Backpropagation Evolution:** Before building this production-ready PyTorch pipeline, I built the entire neural network and backpropagation engine completely from scratch using only NumPy to master the underlying calculus and gradient math. You can check out that foundational project here: [[Link](https://github.com/Dawood-Amir/numpy-ffn-from-scratch) ]
